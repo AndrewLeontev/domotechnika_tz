@@ -1,0 +1,17 @@
+{
+  "name": "domotekhnika-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "tests": "nightwatch tests"
+  },
+  "author": "Andrey Leontev",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.21"
+  }
+}
